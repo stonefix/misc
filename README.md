@@ -5,6 +5,6 @@ awwq
 [Test] (<https://example.com>)
 
 
-* [AngularJS] - HTML enhanced for web apps!
+[AngularJS] - HTML enhanced for web apps!
 
 [AngularJS]: <http://angularjs.org> 
