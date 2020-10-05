@@ -1,4 +1,4 @@
-See [Кубернетс](https://tv.yandex.ru/program/utro-rossii-subbota-4706430?eventId=164562371)
+See [Кубернетс н87 щз0] (https://tv.yandex.ru/program/utro-rossii-subbota-4706430?eventId=164562371)
 
 [05:00 Утро России. Суббота]  (https://tv.yandex.ru/program/utro-rossii-subbota-4706430?eventId=164562371)
 [08:00 Вести - местное время. Санкт-Петербург]  (https://tv.yandex.ru/program/vesti-mestnoe-vremya-sankt-peterburg-3894468?eventId=164562373)
